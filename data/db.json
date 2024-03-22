@@ -1,0 +1,64 @@
+{
+  "produits": [
+    {
+      "id": "1",
+      "code": "x12",
+      "designation": "Panie",
+      "prix": 20
+    },
+    {
+      "id": "2",
+      "code": "y4",
+      "designation": "table en bois",
+      "prix": "200"
+    },
+    {
+      "id": "4",
+      "code": "z45",
+      "designation": "Ordinateur",
+      "prix": 2500
+    },
+    {
+      "id": "5",
+      "code": "uuuu200",
+      "designation": "salon ",
+      "prix": 3000
+    },
+    {
+      "id": "6",
+      "code": "zzzz20",
+      "designation": "Ord",
+      "prix": 2500
+    },
+    {
+      "id": "7",
+      "code": "44",
+      "designation": "8",
+      "prix": "90"
+    },
+    {
+      "id": "15",
+      "code": "125",
+      "designation": "bureau",
+      "prix": "250"
+    },
+    {
+      "id": "16",
+      "code": "1333",
+      "designation": "PC",
+      "prix": "300"
+    },
+    {
+      "id": "17",
+      "code": "7",
+      "designation": "poste",
+      "prix": "700"
+    },
+    {
+      "id": "ede0",
+      "code": "zyzy",
+      "designation": "ma",
+      "prix": 2000
+    }
+  ]
+}
